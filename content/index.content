@@ -23,7 +23,7 @@
 						<img src="@pathtofile(site/images/communication.jpg)" alt="" />
 					</span>
 					<header class="major">
-						<h3><a href="landing.html" class="link">Communication</a></h3>
+						<h3>Communication</h3>
 						<p>We listen and take our time.  You leave the clinic with a clear explanation of the treatment plan.</p>
 					</header>
 				</article>
@@ -32,7 +32,7 @@
 						<img src="@pathtofile(site/images/dpc.jpg)" alt="" />
 					</span>
 					<header class="major">
-						<h3><a href="landing.html" class="link">Direct Care</a></h3>
+						<h3>Direct Care</h3>
 						<p>Payment is settled at the time of your visit.  Pricing is made clear upfront and no surprise bills show up later.  We do not use insurance so our practice is efficient.  Time and resources are freed to focus on you instead of middlemen and endless paperwork.</p>
 					</header>
 				</article>
@@ -41,7 +41,7 @@
 						<img src="@pathtofile(site/images/iversonyao9.jpg)" alt="" />
 					</span>
 					<header class="major">
-						<h3><a href="landing.html" class="link">Agility</a></h3>
+						<h3>Agility</h3>
 						<p>We leverage technology to allow for a lean, modern practice. Our practice is small and personal so we can iterate quickly and run circles around inefficient, bloated practices.</p>
 					</header>
 				</article>
@@ -50,7 +50,7 @@
 						<img src="@pathtofile(site/images/yoga.jpg)" alt="" />
 					</span>
 					<header class="major">
-						<h3><a href="landing.html" class="link">Holistic</a></h3>
+						<h3>Holistic</h3>
 						<p>Your health should not be maintaned primarily through medications.  Nutrition, mindset and exercise are just some of the key factors.</p>
 					</header>
 				</article>
@@ -59,7 +59,7 @@
 						<img src="@pathtofile(site/images/prevention.jpg)" alt="" />
 					</span>
 					<header class="major">
-						<h3><a href="landing.html" class="link">Prevention</a></h3>
+						<h3>Prevention</h3>
 						<p>Prevention of future injuries and health issues is just as important as treating current ones.</p>
 					</header>
 				</article>
@@ -68,7 +68,7 @@
 						<img src="@pathtofile(site/images/evidence.jpg)" alt="" />
 					</span>
 					<header class="major">
-						<h3><a href="landing.html" class="link">Evidence Based</a></h3>
+						<h3>Evidence Based</h3>
 						<p>We use proven treatments and avoid heavily marketed therapies which have little evidence supporting them</p>
 					</header>
 				</article>
