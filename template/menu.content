@@ -9,10 +9,10 @@
 <!-- Menu -->
 	<nav id="menu">
 		<ul class="links">
-			<li><a href="index.html">Home</a></li>
-			<li><a href="https://blog.lvsportsclinic.com">Blog</a></li>
+			<li><a href="https://lvsportsclinic.com">Home</a></li>
+			<li><a href="https://lvsportsclinic.com/blog">Blog</a></li>
 			<li><a href="https://talkphr.com">Patient Portal</a></li>
-			<li><a href="https://blog.lvsportsclinic.com">Wiki</a></li>
+			<li><a href="#">Wiki</a></li>
 		</ul>
 		<ul class="actions stacked">
 			<li><a href="#" class="button primary fit">Get Started</a></li>

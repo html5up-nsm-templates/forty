@@ -1,0 +1,32 @@
+<script>
+	/*
+		works locally for ff
+		works online for ff and chrome (need to test others)
+	*/
+	function open_file(filePath)
+	{
+		var xmlhttp = new XMLHttpRequest();
+
+		xmlhttp.open("GET", filePath, false);
+
+		try
+		{
+			xmlhttp.send();
+
+			//alert("xmlhttp.status " + xmlhttp.status);
+
+			if (xmlhttp.status==200)
+				return xmlhttp.responseText;
+			else //works online
+			{
+				alert("file " + filePath + " does not exist.");
+				return null;
+			}
+		}
+		catch(e) //works locally
+		{
+			alert("file " + filePath + " does not exist");
+			return null;
+		}
+	}
+</script>

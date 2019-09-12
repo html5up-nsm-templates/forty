@@ -1,15 +1,17 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
-			<ul class="icons">
-				<li><a href="https://twitter.com/lvsportsclinic" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-				<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-				<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-				<li><a href="https://github.com/lvsportsclinic" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-				<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
-			</ul>
-			<ul class="copyright">
-				<li>&copy; 2019 Las Vegas Sports Clinic</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li><li>Site Manager: <a href="https://nift.cc">Nift</a></li>
-			</ul>
+			<center>
+				<ul class="icons">
+					<li><a href="https://twitter.com/lvsportsclinic" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://github.com/lvsportsclinic" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li><b>&copy; 2018-@loadYY <a href="https://lvsportsclinic.com">Las Vegas Sports Clinic</a></b></li>
+				</ul>
+			</center>
 		</div>
 	</footer>

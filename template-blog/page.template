@@ -1,34 +1,31 @@
 <!DOCTYPE HTML>
 <!--
-	Forty by HTML5 UP
+	Solid State by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 	<head>
-		@input(template/head.content)
+		@input(template-blog/head.content)
 	</head>
 	<body class="is-preload" onload="setup()">
 
-		<!-- Wrapper -->
-			<div id="wrapper">
-				@input(template/menu.content)
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+				@input(template-blog/menu.content)
 
 				@inputcontent
 
-				@input(template/contact.content)
-
-				@input(template/footer.content)
+				@input(template-blog/footer.content)
 			</div>
 
 		<!-- Scripts -->
 			<script src="@pathtofile(site/assets/js/jquery.min.js)"></script>
-			<script src="@pathtofile(site/assets/js/jquery.scrolly.min.js)"></script>
 			<script src="@pathtofile(site/assets/js/jquery.scrollex.min.js)"></script>
 			<script src="@pathtofile(site/assets/js/browser.min.js)"></script>
 			<script src="@pathtofile(site/assets/js/breakpoints.min.js)"></script>
 			<script src="@pathtofile(site/assets/js/util.js)"></script>
-			<script src="@pathtofile(site/assets/js/main.js)"></script>
+			<script src="@pathtofile(site/assets/js/main-blog.js)"></script>
 			<script src="@pathtofile(site/assets/js/process_pre_tags.js)"></script>
 			<script src='@pathtofile(site/assets/js/process_md_blocks.js)'></script>
 			<script src="@pathtofile(site/assets/js/showdown.min.js)"></script>
