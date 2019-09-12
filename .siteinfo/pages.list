@@ -1,40 +1,20 @@
 blog/index
 index
-template-blog/page.template
+template/page.template
 
 blog/post01
 post01
-template-blog/page.template
+template/page.template
 
 blog/post02
 post02
-template-blog/page.template
-
-blog2/index
-index
-template/page.template
-
-blog2/post01
-post01
-template/page.template
-
-blog2/post02
-post02
-template/page.template
-
-elements
-elements
-template/page.template
-
-generic
-generic
 template/page.template
 
 index
 index
 template/page.template
 
-landing
-landing
+services
+services
 template/page.template
 

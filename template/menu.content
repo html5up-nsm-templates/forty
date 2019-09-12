@@ -1,6 +1,6 @@
 <!-- Header -->
 	<header id="header" class="alt">
-		<a href="index.html" class="logo"><strong>LAS VEGAS SPORTS CLINIC</strong>
+		<a href="https://lvsportsclinic.com" class="logo"><strong>LAS VEGAS SPORTS CLINIC</strong>
 		<nav>
 			<a href="#menu">Menu</a>
 		</nav>
@@ -12,10 +12,11 @@
 			<li><a href="https://lvsportsclinic.com">Home</a></li>
 			<li><a href="https://lvsportsclinic.com/blog">Blog</a></li>
 			<li><a href="https://talkphr.com">Patient Portal</a></li>
+			<li><a href="@pathto(services)">Services</a></li>
 			<li><a href="#">Wiki</a></li>
 		</ul>
-		<ul class="actions stacked">
+		<!--<ul class="actions stacked">
 			<li><a href="#" class="button primary fit">Get Started</a></li>
 			<li><a href="#" class="button fit">Log In</a></li>
-		</ul>
+		</ul>-->
 	</nav>

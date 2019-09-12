@@ -13,7 +13,7 @@
 
 <!-- uses MathJax CDC for LaTeX support
      see http://docs.mathjax.org/en/latest/start.html for more info -->
-<!-- <script type="text/x-mathjax-config">
+<script type="text/x-mathjax-config">
 	MathJax.Hub.Config
 	({
 		extensions: ["tex2jax.js"],
@@ -29,4 +29,4 @@
 </script>
 <script type="text/javascript" 
 	    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js">
-</script> -->
+</script>

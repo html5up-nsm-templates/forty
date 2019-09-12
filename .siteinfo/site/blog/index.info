@@ -1,11 +1,11 @@
-10:37:15 Thursday September 12 2019
+20:40:16 Thursday September 12 2019
 blog/index
 index
-template-blog/page.template
+template/page.template
 
 content/blog/index.content
 content/blog/posts.js
-template-blog/footer.content
-template-blog/head.content
-template-blog/menu.content
-template-blog/page.template
+template/footer.content
+template/head.content
+template/menu.content
+template/page.template

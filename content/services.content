@@ -1,0 +1,67 @@
+<!-- Main -->
+<div id="main" class="alt">
+
+	<!-- One -->
+	<section id="one">
+		<div class="inner">
+			<header>
+				<center>
+					<div class="inner">
+						<div class="logo"><h2><span class="icon fa-gem"></span> Services</h2></div>
+					</div>
+				</center>
+			</header>
+
+			<!-- Content -->
+			<div class="content">
+				The following table contains some of the services available at Las Vegas Sports Clinic. If you have any other services you are interested in then please get in contact with us using the form on the home page.
+
+				<div class="table-wrapper" style="margin-top:20px">
+					<table class="alt">
+						<thead>
+							<tr>
+								<th>Service</th>
+								<th>Description</th>
+								<th>Price</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>New Patient Visit</td>
+								<td>Ante turpis integer aliquet porttitor</td>
+								<td>29.99</td>
+							</tr>
+							<tr>
+								<td>Follow Up Visit</td>
+								<td>Vis ac commodo adipiscing arcu aliquet</td>
+								<td>19.99</td>
+							</tr>
+							<tr>
+								<td>Telemedicine Visit</td>
+								<td>Morbi faucibus arcu accumsan lorem</td>
+								<td>29.99</td>
+							</tr>
+							<tr>
+								<td>Sports Preparticipation Physical Exam</td>
+								<td>Vitae integer tempus condimentum</td>
+								<td>19.99</td>
+							</tr>
+							<tr>
+								<td>Joint Injections</td>
+								<td>Ante turpis integer aliquet porttitor</td>
+								<td>29.99</td>
+							</tr>
+						</tbody>
+						<tfoot>
+							<tr>
+								<th>Service</th>
+								<th>Description</th>
+								<th>Price</th>
+							</tr>
+						</tfoot>
+					</table>
+				</div>
+			</div>
+		</div>
+	</section>
+</div>

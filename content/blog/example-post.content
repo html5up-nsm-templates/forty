@@ -4,10 +4,11 @@
 	<section id="one">
 		<div class="inner">
 			<header>
-				<div class="inner">
-					<div class="logo"><span class="icon fa-gem"></span></div>
-					<h2>Post 1: My first blog post</h2>
-				</div>
+				<center>
+					<div class="inner">
+						<div class="logo"><h2><span class="icon fa-gem"></span> Post 1: My first blog post</h2></div>
+					</div>
+				</center>
 			</header>
 
 			<!-- Content -->
@@ -89,7 +90,7 @@
 					You can also do syntax highlighting outside of markdown blocks using [Google Code Prettify](https://github.com/google/code-prettify), Eg.:
 				</textarea>
 
-				<pre class="prettyprint linenums">
+				<pre class="prettyprint linenums background">
 					#include <cstdio>
 					#include <iostream>
 
@@ -105,7 +106,7 @@
 					To do a <b>pre</b> block without syntax highlighting outside markdown blocks use class <b>border</b>, Eg.:
 				</p>
 
-				<pre class="border">
+				<pre class="background">
 					#include <cstdio>
 					#include <iostream>
 

@@ -1,15 +1,16 @@
-<!-- Wrapper -->
-<section id="wrapper">
-	<header>
-		<div class="inner">
-			<div class="logo"><span class="icon fa-gem"></span></div>
-			<h2>Las Vegas Sports Clinic Blog</h2>
-		</div>
-	</header>
+<!-- Main -->
+<div id="main" class="alt">
 
-	<!-- Content -->
-	<div class="wrapper">
+	<!-- One -->
+	<section id="one">
 		<div class="inner">
+			<header>
+				<div class="inner">
+					<div class="logo"><h2><span class="icon fa-gem"></span> Las Vegas Sports Clinic Blog</h2></div>
+				</div>
+			</header>
+
+			<!-- Content -->
 			<div class="content">
 				<center><h2>Contents</h2></center>
 
@@ -27,7 +28,7 @@
 										</select> &nbsp;&nbsp;
 									</th>
 									<th>
-										<input id="page_tb" type="text" value="1" style="width:50px"> &nbsp;&nbsp;
+										<input id="page_tb" type="text" value="1" style="width:60px"> &nbsp;&nbsp;
 									</th>
 								</tr>
 							</tfoot>
@@ -41,7 +42,7 @@
 					</div>
 
 					<noselect>
-						<div class="xscroll" style="margin-top: 10px">
+						<div class="xscroll" style="margin-top: -10px; margin-bottom: 10px">
 							<pagebutton onclick="first_page()" title="f key">first</pagebutton> &nbsp;
 							<pagebutton onclick="prev_page()" title="left arrow key">prev</pagebutton> &nbsp;
 							<pagebutton onclick="next_page()" title="right arrow key">next</pagebutton> &nbsp;
@@ -81,16 +82,9 @@
 				<noselect><br><br></noselect>
 			</div>
 		</div>
-	</div>
-
-	<!-- Four -->
-	<section class="wrapper style4">
-		<div class="inner">
-			<div class="content">
-			</div>
-		</div>
 	</section>
-</section>
+</div>
+
 
 <script>
 	@input(content/blog/posts.js)

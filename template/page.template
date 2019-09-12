@@ -16,8 +16,6 @@
 
 				@inputcontent
 
-				@input(template/contact.content)
-
 				@input(template/footer.content)
 			</div>
 
