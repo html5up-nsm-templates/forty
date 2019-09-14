@@ -1,16 +1,20 @@
-elements
-elements
+blog/index
+index
 template/page.template
 
-generic
-generic
+blog/post01
+post01
+template/page.template
+
+blog/post02
+post02
 template/page.template
 
 index
 index
 template/page.template
 
-landing
-landing
+services
+services
 template/page.template
 
