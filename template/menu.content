@@ -13,7 +13,6 @@
 			<li><a href="https://lvsportsclinic.com/blog">Blog</a></li>
 			<li><a href="https://talkphr.com">Patient Portal</a></li>
 			<li><a href="@pathto(services)">Services</a></li>
-			<li><a href="#">Wiki</a></li>
 		</ul>
 		<!--<ul class="actions stacked">
 			<li><a href="#" class="button primary fit">Get Started</a></li>

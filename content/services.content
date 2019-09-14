@@ -28,28 +28,28 @@
 						<tbody>
 							<tr>
 								<td>New Patient Visit</td>
-								<td>Ante turpis integer aliquet porttitor</td>
-								<td>29.99</td>
+								<td>Our chance to meet you and review your current issue, performance goals, and medical history.</td>
+								<td>$125</td>
 							</tr>
 							<tr>
 								<td>Follow Up Visit</td>
-								<td>Vis ac commodo adipiscing arcu aliquet</td>
-								<td>19.99</td>
+								<td>We build on your initial visit and review your progress, carefully adjusting the care plan.</td>
+								<td>$75</td>
 							</tr>
 							<tr>
 								<td>Telemedicine Visit</td>
-								<td>Morbi faucibus arcu accumsan lorem</td>
-								<td>29.99</td>
+								<td>Ideal for established patients who have questions when out of town or after clinic hours.</td>
+								<td>$49</td>
 							</tr>
 							<tr>
 								<td>Sports Preparticipation Physical Exam</td>
-								<td>Vitae integer tempus condimentum</td>
-								<td>19.99</td>
+								<td>Ensure your safe participation in sports and exercise.  <a href="https://www.amssm.org/Content/pdf%20files/PPE2010RevisedForm.pdf">See this form </a>to get an idea of how thorough a sports physical should be.</td>
+								<td>$99</td>
 							</tr>
 							<tr>
 								<td>Joint Injections</td>
 								<td>Ante turpis integer aliquet porttitor</td>
-								<td>29.99</td>
+								<td>$70</td>
 							</tr>
 						</tbody>
 						<tfoot>
