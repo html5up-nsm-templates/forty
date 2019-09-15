@@ -12,7 +12,7 @@
 
 			<!-- Content -->
 			<div class="content">
-				<center><h2>Contents</h2></center>
+				<!-- <center><h2>Contents</h2></center> -->
 
 				<center>
 					<div class="xscroll">
@@ -43,10 +43,10 @@
 
 					<noselect>
 						<div class="xscroll" style="margin-top: -10px; margin-bottom: 10px">
-							<pagebutton onclick="first_page()" title="f key">first</pagebutton> &nbsp;
-							<pagebutton onclick="prev_page()" title="left arrow key">prev</pagebutton> &nbsp;
-							<pagebutton onclick="next_page()" title="right arrow key">next</pagebutton> &nbsp;
-							<pagebutton onclick="last_page()" title="l key">last</pagebutton>
+							<pagebutton onclick="first_page()" title="f key"><<</pagebutton> &nbsp;
+							<pagebutton onclick="prev_page()" title="left arrow key"><</pagebutton> &nbsp;
+							<pagebutton onclick="next_page()" title="right arrow key">></pagebutton> &nbsp;
+							<pagebutton onclick="last_page()" title="l key">>></pagebutton>
 						</div>
 					</noselect>
 				</center>
@@ -71,10 +71,10 @@
 				<center>
 					<noselect>
 						<div class="xscroll">
-							<pagebutton onclick="first_page()" title="f key">first</pagebutton> &nbsp;
-							<pagebutton onclick="prev_page()" title="left arrow key">prev</pagebutton> &nbsp;
-							<pagebutton onclick="next_page()" title="right arrow key">next</pagebutton> &nbsp;
-							<pagebutton onclick="last_page()" title="l key">last</pagebutton>
+							<pagebutton onclick="first_page()" title="f key"><<</pagebutton> &nbsp;
+							<pagebutton onclick="prev_page()" title="left arrow key"><</pagebutton> &nbsp;
+							<pagebutton onclick="next_page()" title="right arrow key">></pagebutton> &nbsp;
+							<pagebutton onclick="last_page()" title="l key">>></pagebutton>
 						</div>
 					</noselect>
 				</center>
@@ -113,12 +113,12 @@
 	function keydown(e)
 	{
 		var code = e.keyCode;
-		
+
 		if(document.activeElement.tagName != "INPUT")
 		{
-			switch (code) 
+			switch (code)
 			{
-				
+
 				case 37: prev_page(); break; //Left key
 				case 39: next_page(); break; //Right key
 				case 70: first_page(); break; //'f' key
@@ -192,7 +192,7 @@
 
 		var no_rows = table.rows.length-2;
 		for(var i=0; i < no_rows; i++)
-			table.deleteRow(1);		
+			table.deleteRow(1);
 	}
 
 	function draw_page()
@@ -203,10 +203,10 @@
 		no_posts_on_page = posts_array.length - current_page*posts_per_page;
 		if(current_page+1 < total_no_pages)
 			no_posts_on_page = posts_per_page;
-	
+
 		var pmax = posts_array.length;
 		if(current_page+1 < total_no_pages)
-			pmax = (current_page+1)*posts_per_page; 
+			pmax = (current_page+1)*posts_per_page;
 
 		for(var p=current_page*posts_per_page, i=1; p<pmax; p++, i++)
 		{
