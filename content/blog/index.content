@@ -15,6 +15,44 @@
 				<!-- <center><h2>Contents</h2></center> -->
 
 				<center>
+
+
+					<noselect>
+						<div class="xscroll" style="margin-top: -10px; margin-bottom: 10px">
+							<pagebutton onclick="first_page()" title="f key"><<</pagebutton> &nbsp;
+							<pagebutton onclick="prev_page()" title="left arrow key"><</pagebutton> &nbsp;
+							<pagebutton onclick="next_page()" title="right arrow key">></pagebutton> &nbsp;
+							<pagebutton onclick="last_page()" title="l key">>></pagebutton>
+						</div>
+					</noselect>
+				</center>
+
+				<div class="xscroll">
+					<table id="posts_table">
+						<thead>
+							<tr>
+								<!-- <th>Date</th>
+								<th>Title</th> -->
+							</tr>
+						</thead>
+						<tfoot>
+							<tr>
+								<!-- <th>Date</th>
+								<th>Title</th> -->
+							</tr>
+						</tfoot>
+					</table>
+				</div>
+
+				<center>
+					<!-- <noselect>
+						<div class="xscroll">
+							<pagebutton onclick="first_page()" title="f key"><<</pagebutton> &nbsp;
+							<pagebutton onclick="prev_page()" title="left arrow key"><</pagebutton> &nbsp;
+							<pagebutton onclick="next_page()" title="right arrow key">></pagebutton> &nbsp;
+							<pagebutton onclick="last_page()" title="l key">>></pagebutton>
+						</div>
+					</noselect>  -->
 					<div class="xscroll">
 						<table style="margin-bottom:0px">
 							<tfoot>
@@ -40,43 +78,6 @@
 							</tfoot>
 						</table>
 					</div>
-
-					<noselect>
-						<div class="xscroll" style="margin-top: -10px; margin-bottom: 10px">
-							<pagebutton onclick="first_page()" title="f key"><<</pagebutton> &nbsp;
-							<pagebutton onclick="prev_page()" title="left arrow key"><</pagebutton> &nbsp;
-							<pagebutton onclick="next_page()" title="right arrow key">></pagebutton> &nbsp;
-							<pagebutton onclick="last_page()" title="l key">>></pagebutton>
-						</div>
-					</noselect>
-				</center>
-
-				<div class="xscroll">
-					<table id="posts_table">
-						<thead>
-							<tr>
-								<th>Date</th>
-								<th>Title</th>
-							</tr>
-						</thead>
-						<tfoot>
-							<tr>
-								<th>Date</th>
-								<th>Title</th>
-							</tr>
-						</tfoot>
-					</table>
-				</div>
-
-				<center>
-					<noselect>
-						<div class="xscroll">
-							<pagebutton onclick="first_page()" title="f key"><<</pagebutton> &nbsp;
-							<pagebutton onclick="prev_page()" title="left arrow key"><</pagebutton> &nbsp;
-							<pagebutton onclick="next_page()" title="right arrow key">></pagebutton> &nbsp;
-							<pagebutton onclick="last_page()" title="l key">>></pagebutton>
-						</div>
-					</noselect>
 				</center>
 
 				<noselect><br><br></noselect>
