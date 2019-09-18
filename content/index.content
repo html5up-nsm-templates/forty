@@ -20,7 +20,7 @@
 			<section id="one" class="tiles">
 				<article>
 					<span class="image">
-						<img src="@pathtofile(site/images/communication.jpg)" alt="" />
+						<img src="@pathtofile(site/images/communication.webp)" alt="" />
 					</span>
 					<header class="major">
 						<h3>Communication</h3>
@@ -29,7 +29,7 @@
 				</article>
 				<article>
 					<span class="image">
-						<img src="@pathtofile(site/images/dpc.jpg)" alt="" />
+						<img src="@pathtofile(site/images/dpc.webp)" alt="" />
 					</span>
 					<header class="major">
 						<h3>Direct Care</h3>
@@ -38,7 +38,7 @@
 				</article>
 				<article>
 					<span class="image">
-						<img src="@pathtofile(site/images/iversonyao9.jpg)" alt="" />
+						<img src="@pathtofile(site/images/answer.webp)" alt="" />
 					</span>
 					<header class="major">
 						<h3>Agility</h3>
@@ -47,7 +47,7 @@
 				</article>
 				<article>
 					<span class="image">
-						<img src="@pathtofile(site/images/yoga.jpg)" alt="" />
+						<img src="@pathtofile(site/images/yoga.webp)" alt="" />
 					</span>
 					<header class="major">
 						<h3>Holistic</h3>
@@ -56,7 +56,7 @@
 				</article>
 				<article>
 					<span class="image">
-						<img src="@pathtofile(site/images/prevention.jpg)" alt="" />
+						<img src="@pathtofile(site/images/prevention.webp)" alt="" />
 					</span>
 					<header class="major">
 						<h3>Prevention</h3>
@@ -65,7 +65,7 @@
 				</article>
 				<article>
 					<span class="image">
-						<img src="@pathtofile(site/images/evidence.jpg)" alt="" />
+						<img src="@pathtofile(site/images/evidence.webp)" alt="" />
 					</span>
 					<header class="major">
 						<h3>Evidence Based</h3>
