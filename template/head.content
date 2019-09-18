@@ -1,4 +1,7 @@
 <title>Las Vegas Sports Clinic</title>
+<meta name="description" content="Professional Care For Athletes">
+<meta name="keywords" content="sports medicine, sports physicals, ankle sprain, back pain, same day appointment">
+
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <link rel="stylesheet" href="@pathtofile(site/assets/css/main.css)" />
@@ -18,7 +21,7 @@
 	({
 		extensions: ["tex2jax.js"],
     	jax: ["input/TeX", "output/HTML-CSS"],
-		tex2jax: 
+		tex2jax:
 		{
 			inlineMath: [['$','$'], ['\\(','\\)']],
 			displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
@@ -27,6 +30,6 @@
 		"HTML-CSS": { availableFonts: ["MathJax TeX"] }
 	});
 </script>
-<script type="text/javascript" 
+<script type="text/javascript"
 	    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js">
 </script>
