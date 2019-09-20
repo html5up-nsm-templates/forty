@@ -17,7 +17,7 @@
 					## This is a heading
 					### This is a subheading
 
-					You can change the background colours with the css variables defined at the start of `site/assets/css/main.css`.
+					You can change the background colour with the css variables defined at the start of `site/assets/css/main.css`.
 
 					You can do $\LaTeX$ equations thanks to MathJaX. Both `$..$` and `\(..\)` work for inline equations, and both `$$..$$` and `\[..\]` work for displayed equations (note inside markdown/showdown blocks use `\\(..\\)` and `\\[..\\]`, or the `$` syntax). Eg. When \\(a \ne 0\\), there are two solutions to $ax^2 + bx + c = 0$ and they are:
 
@@ -27,13 +27,13 @@
 
 						nsm cp blog/post01 blog/postx
 
-					See [here](https://github.com/showdownjs/showdown/wiki/Showdown's-Markdown-syntax) for documentation on Showdown's markdown syntax, and [here](https://github.com/showdownjs/showdown#setting-options) for documentation on Showdown options. 
+					See [here](https://github.com/showdownjs/showdown/wiki/Showdown's-Markdown-syntax) for documentation on Showdown's markdown syntax, and [here](https://github.com/showdownjs/showdown#setting-options) for documentation on Showdown options.
 
 					To use emojis you need to enable the **"emoji"** option, then emojis are eg. `:smile:`, `:+1:`, `:bacon:` and `:zap:` for :smile:, :+1:, :bacon: and :zap:. See [here](https://github.com/showdownjs/showdown/wiki/emojis) for a list of Showdown supported emojis.
 
-					1. You can make text *italic* by surrounding it with \\*, eg. \\*text\\*. 
-					2. You can make text **bold** by surrounding it with \\*\\*, eg. \\*\\*text\\*\\*. 
-					3. You can make text ~~strikethrough~~ by surrounding it with \~\~, eg. \~\~text\~\~. 
+					1. You can make text *italic* by surrounding it with \\*, eg. \\*text\\*.
+					2. You can make text **bold** by surrounding it with \\*\\*, eg. \\*\\*text\\*\\*.
+					3. You can make text ~~strikethrough~~ by surrounding it with \~\~, eg. \~\~text\~\~.
 
 					You can do unordered lists using \*, \- or \+, Eg.:
 					* list item 1

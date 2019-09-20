@@ -1,20 +1,28 @@
-blog/index
-index
-template/page.template
+"'blog/post03'"
+"post03'"
+'template/page.template'
 
-blog/post01
+'blog/index'
+index
+'template/page.template'
+
+'blog/post01'
 post01
-template/page.template
+'template/page.template'
 
-blog/post02
+'blog/post02'
 post02
-template/page.template
+'template/page.template'
+
+'blog/post03'
+post03
+'template/page.template'
 
 index
 index
-template/page.template
+'template/page.template'
 
 services
 services
-template/page.template
+'template/page.template'
 
