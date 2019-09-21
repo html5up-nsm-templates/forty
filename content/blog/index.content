@@ -7,18 +7,12 @@
 			<header>
 				<div class="inner">
 					<div class="logo"><h2><span class="icon fa-gem"></span> Las Vegas Sports Clinic Blog</h2></div>
-					<center><img src="/images/cbd.webp" alt="cbd"></center>
 				</div>
 			</header>
 
 			<!-- Content -->
 			<div class="content">
 				<!-- <center><h2>Contents</h2></center> -->
-
-
-				<center>
-
-
 					<noselect>
 						<div class="xscroll" style="margin-top: -10px; margin-bottom: 10px">
 							<pagebutton onclick="first_page()" title="f key"><<</pagebutton> &nbsp;
