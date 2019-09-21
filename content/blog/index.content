@@ -213,7 +213,7 @@
 		{
 			var row = table.insertRow(i);
 			row.insertCell(0).innerHTML = posts_array[p][0];
-			row.insertCell(1).innerHTML = "<a href='" + posts_array[p][2] + "'>" + posts_array[p][1] + ": " + posts_array[p][3] + "</a>";
+			row.insertCell(1).innerHTML = "<a href='" + posts_array[p][2] + "'>" + posts_array[p][1] + posts_array[p][3] + "</a>";
 		}
 	}
 </script>
