@@ -11,11 +11,13 @@
 				</center>
 			</header>
 			<br>
-			<picture>
-				<source media="(max-width: 799px)" srcset="/images/cbd480.webp">
-				<source media="(min-width: 800px)" srcset="/images/cbd.webp">
-				<img src="images/cbd.webp">
-			</picture>
+			<center>
+				<picture>
+					<source media="(max-width: 799px)" srcset="/images/cbd480.webp">
+					<source media="(min-width: 800px)" srcset="/images/cbd.webp">
+					<img src="images/cbd.webp">
+				</picture>
+			</center>
 			<center><img src="/images/cbd.webp" alt="cbd"></center>
 		<!-- Content -->
 			<div class="content">
