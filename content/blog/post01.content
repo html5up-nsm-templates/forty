@@ -12,9 +12,9 @@
 			</header>
 			<br>
 			<picture>
-				<source media="(max-width: 799px)" srcset=cbd480.webp>
-				<source media="(min-width: 800px)" srcset="cbd.webp>
-				<img src="cbd.webp">
+				<source media="(max-width: 799px)" srcset="images/cbd480.webp">
+				<source media="(min-width: 800px)" srcset="images/cbd.webp">
+				<img src="images/cbd.webp">
 			</picture>
 		<!-- Content -->
 			<div class="content">
