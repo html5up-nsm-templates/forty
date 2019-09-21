@@ -8,8 +8,12 @@
 					<div class="inner">
 						<div class="logo"><h2>Article Discussion:  Clinicians’ Guide to Cannabidiol and Hemp Oils</h2></div>
 
-							
-					  	<picture>  <source media="(max-width: 799px)" srcset="cbd480.webp">  <source media="(min-width: 800px)" srcset="cbd.webp">  <img src="cbd.webp"></picture>
+
+					  	<picture>
+							  <source media="(max-width: 799px)" srcset=cbd480.webp>
+								<source media="(min-width: 800px)" srcset="cbd.webp>  
+								<img src="cbd.webp">
+							</picture>
 				</center>
 			</header>
 			<br>
