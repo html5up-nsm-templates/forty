@@ -7,7 +7,9 @@
 				<center>
 					<div class="inner">
 						<div class="logo"><h2>Article Discussion:  Clinicians’ Guide to Cannabidiol and Hemp Oils</h2></div>
-						<img src="/images/cbd.webp" alt="cbd" class="image.main">
+					</div>
+					<div class="spotlights">
+						<img src="/images/cbd.webp" alt="cbd">
 					</div>
 				</center>
 			</header>
