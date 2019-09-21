@@ -22,9 +22,9 @@
 			<br>
 		<!-- Content -->
 			<div class="content">
-			<a href="https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/fulltext" target="_blank">Original article at Mayo Clinic Proceedings</a>
+			<center><a style="font-weight:bold "href="https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/fulltext" target="_blank">Original article at Mayo Clinic Proceedings</a></center>
 			<br>
-			<a href="https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/pdf" target="_blank">PDF (1 MB)</a>
+			<center><a style="font-weight:bold" href="https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/pdf" target="_blank">PDF (1 MB)</a></center>
 			<br>
 			<br>
 				<textarea class="markdown">

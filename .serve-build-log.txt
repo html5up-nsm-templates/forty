@@ -1,10 +1,10 @@
 
-'site/blog/post03.html': page name changed to blog/post03 from 'blog/post03'
+'site/blog/post03.html': page name changed to 'blog/post03' from blog/post03
 
 ----- pages that need building -----
  'site/blog/post03.html'
 ------------------------------------
 
 ---- pages successfully built ----
- blog/post03
+ 'blog/post03'
 -----------------------------------------
