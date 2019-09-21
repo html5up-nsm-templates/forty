@@ -11,14 +11,12 @@
 				</center>
 			</header>
 			<figure>
-				 <img src="/images/cbd.webp" alt="sample image">
+				 <img src="/images/cbd.webp" class="ri">
 			</figure>
+			<br>
 			<!-- Content -->
 			<div class="content">
 				<textarea class="markdown">
-
-
-
 				  With the increasing popularity of CBD, it is worth reviewing this article which reviews the evidence for efficacy of CBD in treatment of pain, anxiety and other issues.
 
 
