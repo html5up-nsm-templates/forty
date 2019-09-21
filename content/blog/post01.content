@@ -14,10 +14,11 @@
 			<!-- Content -->
 			<div class="content">
 				<textarea class="markdown">
-					## This is a heading
-					### This is a subheading
+					## Article Discussion:  Clinicians’ Guide to Cannabidiol and Hemp Oils
 
-					You can change the background colour with the css variables defined at the start of `site/assets/css/main.css`.
+					With the increasing popularity of CBD, it is worth reviewing this article which reviews the evidence for efficacy of CBD in treatment of pain, anxiety and other issues.
+
+					<!-- You can change the background colour with the css variables defined at the start of `site/assets/css/main.css`.
 
 					You can do $\LaTeX$ equations thanks to MathJaX. Both `$..$` and `\(..\)` work for inline equations, and both `$$..$$` and `\[..\]` work for displayed equations (note inside markdown/showdown blocks use `\\(..\\)` and `\\[..\\]`, or the `$` syntax). Eg. When \\(a \ne 0\\), there are two solutions to $ax^2 + bx + c = 0$ and they are:
 
@@ -87,7 +88,7 @@
 							return 0;
 						}
 
-					You can also do syntax highlighting outside of markdown blocks using [Google Code Prettify](https://github.com/google/code-prettify), Eg.:
+					You can also do syntax highlighting outside of markdown blocks using [Google Code Prettify](https://github.com/google/code-prettify), Eg.: -->
 				</textarea>
 
 				<pre class="prettyprint linenums background">
