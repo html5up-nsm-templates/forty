@@ -18,15 +18,17 @@
 					<img src="images/cbd.webp">
 				</picture>
 			</center>
+			<br>
+			<br>
 		<!-- Content -->
 			<div class="content">
+			<a href="https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/fulltext" target="_blank">Original article at Mayo Clinic Proceedings</a>
+			<br>
+			<a href="https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/pdf" target="_blank">PDF (1 MB)</a>
+			<br>
+			<br>
 				<textarea class="markdown">
-					Original article at _Mayo Clinic Proceedings_:
-					[Clinicians’ Guide to Cannabidiol and Hemp Oils](https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/fulltext)
-
-					[PDF (1 MB)](https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/pdf)
-					  
-				  With the increasing popularity of CBD, it is worth reviewing this article which reviews the evidence for efficacy of CBD in treatment of pain, anxiety and other issues.
+					With the increasing popularity of CBD, it is worth reviewing this article which reviews the evidence for efficacy of CBD in treatment of pain, anxiety and other issues.
 				</textarea>
 			</div>
 		</div>
