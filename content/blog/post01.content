@@ -7,21 +7,17 @@
 				<center>
 					<div class="inner">
 						<div class="logo"><h2>Article Discussion:  Clinicians’ Guide to Cannabidiol and Hemp Oils</h2></div>
+						<center><img src="/images/cbd.webp" alt="cbd"></center>
 					</div>
 
 				</center>
 			</header>
 			<br>
-			<div class="xscroll">
-				<img src="/images/cbd.webp" alt="cbd">
-			</div>
-			<!-- Content -->
-			<div class="content">
 
+		<!-- Content -->
+			<div class="content">
 				<textarea class="markdown">
 				  With the increasing popularity of CBD, it is worth reviewing this article which reviews the evidence for efficacy of CBD in treatment of pain, anxiety and other issues.
-
-
 				</textarea>
 
 
