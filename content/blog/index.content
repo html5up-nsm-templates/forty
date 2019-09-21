@@ -13,6 +13,7 @@
 			<!-- Content -->
 			<div class="content">
 				<!-- <center><h2>Contents</h2></center> -->
+				<center><img src="/images/cbd.webp" alt="cbd"></center>
 
 				<center>
 
@@ -46,7 +47,7 @@
 
 				<center>
 					<!-- <noselect>
-						<div class="xscroll">
+						<div class="xscroll">": " +
 							<pagebutton onclick="first_page()" title="f key"><<</pagebutton> &nbsp;
 							<pagebutton onclick="prev_page()" title="left arrow key"><</pagebutton> &nbsp;
 							<pagebutton onclick="next_page()" title="right arrow key">></pagebutton> &nbsp;
