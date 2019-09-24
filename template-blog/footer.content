@@ -1,0 +1,20 @@
+<!-- Footer -->
+	<section id="footer">
+		<section>
+			<p>This is the <b>Las Vegas Sports Clinic</b> Blog, a place to find discussions on articles, ??? and ??? relevant to the clinic.</p>
+		</section>
+		<section>
+			<ul class="icons">
+				<li><a href="https://twitter.com/lvsportsclinic" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+				<!--<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>-->
+				<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+				<li><a href="https://github.com/lvsportsclinic" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+				<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">Linked In</span></a></li>
+				<!--<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>-->
+				<!--<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>-->
+			</ul>
+			<ul class="copyright">
+				<li>&copy; 2018-@loadYY <a href="https://lvsportsclinic.com">Las Vegas Sports Clinic</a></li>
+			</ul>
+		</section>
+	</section>
