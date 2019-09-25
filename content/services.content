@@ -27,37 +27,37 @@
 						</thead>
 						<tbody>
 							<tr>
-								<td>New Patient Visit</td>
+								<td><strong>New Patient Visit<strong></td>
 								<td>Our chance to meet you and review your current issue, performance goals, and medical history.</td>
 								<td>$125</td>
 							</tr>
 							<tr>
-								<td>Follow Up Visit</td>
+								<td><strong>Follow Up Visit<strong></td>
 								<td>We build on your initial visit and review your progress, carefully adjusting the care plan.</td>
 								<td>$75</td>
 							</tr>
 							<tr>
-								<td>Telemedicine Visit</td>
+								<td><strong>Telemedicine Visit<strong></td>
 								<td>Ideal for established patients who have questions when out of town or after clinic hours.</td>
 								<td>$49</td>
 							</tr>
 							<tr>
-								<td>Sports Preparticipation Physical Exam</td>
+								<td><strong>Sports Preparticipation Physical Exam<strong></td>
 								<td>Ensure your safe participation in sports and exercise.  <a href="https://www.amssm.org/Content/pdf%20files/PPE2010RevisedForm.pdf">See this form </a>to get an idea of how thorough a sports physical should be.</td>
 								<td>$99</td>
 							</tr>
 							<tr>
-								<td>Joint Injections</td>
+								<td><strong>Joint Injections<strong></td>
 								<td>A variety of injection therapies that can help treat your pain and restore movement.</td>
 								<td>$70</td>
 							</tr>
 						</tbody>
-						<tfoot>
+						<!-- <tfoot>
 							<tr>
 								<th>Service</th>
 								<th>Description</th>
 								<th>Price</th>
-							</tr>
+							</tr>  -->
 						</tfoot>
 					</table>
 				</div>
