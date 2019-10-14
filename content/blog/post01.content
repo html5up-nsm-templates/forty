@@ -34,7 +34,7 @@
 		</div>
 	</section>
 	<center>
-		<a href="https://checkout.opennode.co/p/926b214b-1469-4039-a811-7b3c9e8b6d70">If you enjoyed this article, please consider a small tip/donation<img src="site/images/btc.logo.webp"<a>
+		<a href="https://checkout.opennode.co/p/926b214b-1469-4039-a811-7b3c9e8b6d70">If you enjoyed this article, please consider a small tip/donation<img src="@pathtofile(site/images/btc.logo.webp)" alt="" /><a>
 
 	</center>
 </div>
