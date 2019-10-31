@@ -6,17 +6,85 @@
 			<header>
 				<center>
 					<div class="inner">
-						<div class="logo"><h2><span class="icon fa-gem"></span> Post 2: A project I recently finished</h2></div>
+						<div class="logo"><h2>Esports Injuries </h2></div>
 					</div>
 				</center>
 			</header>
-
-			<!-- Content -->
+			<br>
+			<center>
+				<picture>
+					<source media="(max-width: 799px)" srcset="@pathtofile(site/images/esports360.webp)">
+					<source media="(min-width: 800px)" srcset="@pathtofile(site/images/esports640.webp)">
+					<img src="@pathtofile(site/images/esports640.webp)">
+				</picture>
+			</center>
+			<br>
+			<br>
+		<!-- Content -->
 			<div class="content">
+			<br>
+			<br>
 				<textarea class="markdown">
-					Markdown content goes here, you could put it in a new markdown file *blog/post02.md* if you wanted and then have \@input(blog/post02.md). Or you could move the \<textarea\> tags in to the page template **template/page.template** and set the default extension in *.siteinfo/nsm.config* to **.md**. You may also like to play with the css for headers to have them automatically centre, that way your Markdown headers will be centred.
+						Esports, competitive video gaming, has become incredibly popular.  Esports analytics firm Newzoo estimates that the global audience for esports will reach 1.1 billion by 2021.  Estimates suggest that 90% of children in the U.S. play video games regularly.
+						A study done by BMJ Open Sport & Exercise Medicine reports that esports athletes are at risk of developing overuse injuries. The study suggests that the most common health issue was eye fatigue, then neck and back pain, and wrist and hand pain.
+
+						Arm, hand and wrist injuries affecting gamers include:
+
+						- gamer's thumb
+						- carpal tunnel syndrome
+						- trigger finger
+						- tennis elbow
+						- de Quervain's tenosynovitis
+						- cubital tunnel syndrome (ulnar neuritis)
+
+
+
+						###Gamer's Thumb
+
+						Also known as DeQuervain's tenosynovitis, which is inflammation of the tendon sheaths surrounding the abductor pollicis longus (APL) and extensor pollicis brevis (EPB), the tendons of the first dorsal compartment of the wrist.
+						It is a result of repetitive strain on these tendons by use of mouse/keyboard/game controller.  The presenting symptoms are wrist pain near the base of the thumb and/or locking or clicking in the thumb.  initial treatment includes wearing a thumb spica splint, avoiding the offending activity, and physical therapy.  Steroid injection is the most successful nonsurgical treatment,
+						reported to have a 62-100% success rate.  If nonsurgical treatment fails, surgical release of the sheath of the first dorsal compartment is indicated.
+
+						To prevent gamer's thumb, take more frequent breaks during gaming or reduce the time spent gaming overall.  The American Academy of Orthopaedic Surgeons recommends the following: Stretch your thumb during breaks. Try holding your hand out in front of you with your palm facing you, and gently bend the tip of your thumb down toward the base of your index finger. Hold for 30 to 60 seconds and repeat 10 times. Or put your palm on a table and lift your thumb up. Hold for 10 seconds, then lower your thumb.  Do this 10 times.
+
+
+						###Carpal Tunnel Syndrome
+
+
+						This develops as the median nerve becomes compressed from progressively worsening inflammation of the wrist flexor tendons
+
+						###Trigger Finger
+
+						Also known as stenosing tenosynovitis, thickening of the A1 pulley and mainly the flexor digitorum profundus (FDP) tendon but also the flexor digitorum superficialis (FDS).
+						Symptoms begin as pain at the level of the A1 pulley and progress to catching or locking.  There is usually a nodule near the level of the A1 pulley.  This condition is due to repetitive movements of the hand in gaming causing the previously mentioned tendon and pulley thickening.  Over 60% of patients also have carpal tunnel syndrome.
+						Initial treatment consists of physical therapy, splinting, and anti-inflammatory medication and this approach has been reported to provide relief in 40-87% of cases.
+						Steroid injection is highly effective and is reported to have a 60-90% response rate.  Surgery is an option if the previously mentioned treatments fail.
+						###Tennis Elbow
+
+						Also known as lateral epicondylitis
+
+						###Cubital Tunnel Syndrome
+
+						Also known as ulnar neuritis.  This is often a result of gamers resting their elbow(s) on a surface while holding a controller or using a keyboard
+
+
+						####References
+
+						1. Donoghue, Joanne & Balentine, Jerry & Schmidt, Gordon & Zwibel, Hallie. (2019). Managing the health of the eSport athlete: An integrated health management model. _BMJ Open Sport & Exercise Medicine_. 5. e000467. 10.1136/bmjsem-2018-000467.
+						2. Buijsman M, 2018. Rainbow six: siege esports hours on twitch quadrupled compared to last year.  Available from: https://​newzoo.com/​insights/​articles/​rainbow-​six-​siege-​esports-​hours-​on-​twitch-​quadrupled-​compared-​to-​last-​year/ [Accessed 29 Oct 2019].
+						3. Hester B, 2016. Teens spend 25 times more of their time playingvideo games than going to the movies. Available from: http://www.​ign.​com/​articles/​2016/​12/​21/​teens-​spend-​25-​times-​more-​of-​their-​time-​playing-​video-​games-​than-​going-​to-​the-​movies [Accessed 29 Oct 2019].
+						4. Adams, Julie E., and Rohan Habbu. "Tendinopathies of the hand and wrist." JAAOS-Journal of the American Academy of Orthopaedic Surgeons 23.12 (2015): 741-750.
+						5. https://www.medicinenet.com/script/main/art.asp?articlekey=197093
+						6. *. VanDolah, Harrison J. et al. Clinicians’ Guide to Cannabidiol and Hemp Oils. _Mayo Clinic Proceedings_. 2019; 9:1840-1851.
+
+
+
 				</textarea>
 			</div>
 		</div>
 	</section>
+	<center>
+		<a href="https://checkout.opennode.co/p/926b214b-1469-4039-a811-7b3c9e8b6d70">Tip if you liked the article! <img src="@pathtofile(site/images/btc.logo.webp)" alt="" /><a>
+
+	</center>
 </div>

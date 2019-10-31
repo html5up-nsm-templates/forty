@@ -1,0 +1,95 @@
+<!-- Main -->
+<div id="main" class="alt">
+	<!-- One -->
+	<section id="one">
+		<div class="inner">
+			<header>
+				<center>
+					<div class="inner">
+						<div class="logo"><h2>Esports Injuries </h2></div>
+					</div>
+				</center>
+			</header>
+			<br>
+			<center>
+				<picture>
+					<source media="(max-width: 799px)" srcset="@pathtofile(site/images/esports360.webp)">
+					<source media="(min-width: 800px)" srcset="@pathtofile(site/images/esports640.webp)">
+					<img src="@pathtofile(site/images/esports640.webp)">
+				</picture>
+			</center>
+			<br>
+			<br>
+		<!-- Content -->
+			<div class="content">
+			<center><a style="font-weight:bold "href="https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/fulltext" target="_blank">Original article at Mayo Clinic Proceedings</a></center>
+			<br>
+			<center><a style="font-weight:bold" href="https://www.mayoclinicproceedings.org/article/S0025-6196(19)30007-2/pdf" target="_blank">PDF (1 MB)</a></center>
+			<br>
+			<br>
+				<textarea class="markdown">
+						Esports, competitive video gaming, has become incredibly popular.  Newzoo estimates that the global audience for esports will reach 1.1 billion by 2021<sup>1,2</sup>.  Estimates suggest that 90% of children in the U.S. play video games regularly<sup>1,3</sup>.
+						A study done by BMJ Open Sport & Exercise Medicine reports that esports athletes are at risk of developing overuse injuries. The study suggests that the most common health issue was eye fatigue, then neck and back pain, and wrist and hand pain<sup>3</sup>.
+
+						Arm, hand and wrist injuries affecting gamers include:
+
+						- gamer's thumb
+						- carpal tunnel syndrome
+						- trigger finger
+						- tennis elbow
+						- de Quervain's tenosynovitis
+						- cubital tunnel syndrome (ulnar neuritis)
+
+
+
+						###Gamer's Thumb
+
+						Also known as DeQuervain's tenosynovitis,
+
+						###Carpal Tunnel Syndrome
+
+
+						This develops as the median nerve becomes compressed from progressively worsening inflammation of the wrist flexor tendons
+
+						###Trigger Finger
+
+						A callus forms on the flexor tendon which can cause catching
+
+						###Tennis Elbow
+
+						Also known as lateral epicondylitis
+
+						###Cubital Tunnel Syndrome
+
+						Also known as ulnar neuritis.  This is often a result of gamers resting their elbow(s) on a surface while holding a controller or using a keyboard
+
+
+
+
+
+
+
+						Synthetic cannabinoids such as “spice” or "K2" should not be used as they have resulted in severe adverse reactions requiring hospitalization in some cases.
+
+						The article recommends the following when looking for a high-quality cannabis product:
+						
+
+
+						####References
+
+						1. Donoghue, Joanne & Balentine, Jerry & Schmidt, Gordon & Zwibel, Hallie. (2019). Managing the health of the eSport athlete: An integrated health management model. _BMJ Open Sport & Exercise Medicine_. 5. e000467. 10.1136/bmjsem-2018-000467.
+						2. Buijsman M, 2018. Rainbow six: siege esports hours on twitch quadrupled compared to last year.  Available from: https://​newzoo.com/​insights/​articles/​rainbow-​six-​siege-​esports-​hours-​on-​twitch-​quadrupled-​compared-​to-​last-​year/ [Accessed 29 Oct 2019].
+						3. Hester B, 2016. Teens spend 25 times more of their time playingvideo games than going to the movies. Available from: http://www.​ign.​com/​articles/​2016/​12/​21/​teens-​spend-​25-​times-​more-​of-​their-​time-​playing-​video-​games-​than-​going-​to-​the-​movies [Accessed 29 Oct 2019].
+						*. VanDolah, Harrison J. et al. Clinicians’ Guide to Cannabidiol and Hemp Oils. _Mayo Clinic Proceedings_. 2019; 9:1840-1851.
+
+
+
+				</textarea>
+			</div>
+		</div>
+	</section>
+	<center>
+		<a href="https://checkout.opennode.co/p/926b214b-1469-4039-a811-7b3c9e8b6d70">Tip if you liked the article! <img src="@pathtofile(site/images/btc.logo.webp)" alt="" /><a>
+
+	</center>
+</div>
