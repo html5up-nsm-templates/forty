@@ -16,7 +16,7 @@
 
 				<article class="item thumb span-1">
 					<a href="@pathto(blog/post02)" class="image">
-						<h2>Post 2</h2>
+						<h2>Esports Injuries</h2>
 						<img src="@pathtofile(site/images/esports640.webp)" alt="">
 					</a>
 				</article>
