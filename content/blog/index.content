@@ -14,51 +14,51 @@
 					</a>
 				</article>
 
-				<article class="item thumb span-2">
-					<a href="@pathto(blog/post02)" class="image">					
+				<article class="item thumb span-1">
+					<a href="@pathto(blog/post02)" class="image">
 						<h2>Post 2</h2>
-						<img src="@pathtofile(site/images/thumbs/02.jpg)" alt="">
+						<img src="@pathtofile(site/images/esports640.webp)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-1">
-					<a href="@pathto(blog/post03)" class="image">
-						<h2>Post 3</h2>
+					<a href="@pathtofile(site/images/fulls/03.jpg)" class="image">
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/03.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-1">
 					<a href="@pathtofile(site/images/fulls/04.jpg)" class="image">
-						<h2>Elysium</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/04.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-3">
 					<a href="@pathtofile(site/images/fulls/05.jpg)" class="image">
-						<h2>Kingdom of the Wind</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/05.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-1">
 					<a href="@pathtofile(site/images/fulls/06.jpg)" class="image">
-						<h2>The Pursuit</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/06.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-2">
 					<a href="@pathtofile(site/images/fulls/07.jpg)" class="image">
-						<h2>Boundless</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/07.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-2">
 					<a href="@pathtofile(site/images/fulls/08.jpg)" class="image">
-						<h2>The Spectators</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/08.jpg)" alt="">
 					</a>
 				</article>
@@ -67,63 +67,63 @@
 			<div class="items">
 				<article class="item thumb span-3">
 					<a href="@pathtofile(site/images/fulls/05.jpg)" class="image">
-						<h2>Kingdom of the Wind</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/05.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-1">
 					<a href="@pathtofile(site/images/fulls/06.jpg)" class="image">
-						<h2>The Pursuit</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/06.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-2">
 					<a href="@pathtofile(site/images/fulls/07.jpg)" class="image">
-						<h2>Boundless</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/07.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-2">
 					<a href="@pathtofile(site/images/fulls/08.jpg)" class="image">
-						<h2>The Spectators</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/08.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-1">
 					<a href="@pathtofile(site/images/fulls/01.jpg)" class="image">
-						<h2>You really got me</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/01.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-2">
 					<a href="@pathtofile(site/images/fulls/02.jpg)" class="image">
-						<h2>Ad Infinitum</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/02.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-1">
 					<a href="@pathtofile(site/images/fulls/03.jpg)" class="image">
-						<h2>Different.</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/03.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-2">
 					<a href="@pathtofile(site/images/fulls/05.jpg)" class="image">
-						<h2>Kingdom of the Wind</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/05.jpg)" alt="">
 					</a>
 				</article>
 
 				<article class="item thumb span-1">
 					<a href="@pathtofile(site/images/fulls/04.jpg)" class="image">
-						<h2>Elysium</h2>
+						<h2></h2>
 						<img src="@pathtofile(site/images/thumbs/04.jpg)" alt="">
 					</a>
 				</article>
