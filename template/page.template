@@ -14,7 +14,7 @@
 			<div id="wrapper">
 				@input(template/menu.content)
 
-				@inputcontent
+				@content()
 
 				@input(template/contact.content)
 
