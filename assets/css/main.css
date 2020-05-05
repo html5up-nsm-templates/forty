@@ -251,7 +251,7 @@ input, select, textarea {
 		padding: 0.5em 0 0.5em 2em;
 	}
 
-	code {
+	/*code {
 		background: rgba(212, 212, 255, 0.035);
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
@@ -271,7 +271,7 @@ input, select, textarea {
 			line-height: 1.75;
 			padding: 1em 1.5em;
 			overflow-x: auto;
-		}
+		}*/
 
 	hr {
 		border: 0;
